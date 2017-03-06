@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041110659839",
+    "firebase_url": "https://demonotification-82405.firebaseio.com",
+    "project_id": "demonotification-82405",
+    "storage_bucket": "demonotification-82405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041110659839:android:885a023a822cf0c2",
+        "android_client_info": {
+          "package_name": "com.portalbeanz.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041110659839-6lrlpqan22ds7sjmp5782dhjj30gosvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcvosj_D5rj29xfsi8Z6uYTg4z8fROcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
